@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Program2</string>
+    <string name="amount_label">Bill Amount</string>
+    <string name="amount_hint">Enter the bill amount</string>
+    <string name="tip_label">Tip Percentage</string>
+    <string name="tip_hint">Enter the tip percentage (0-100)</string>
+    <string name="rounding_label">Rounding method: </string>
+    <string name="calc_button">Calculate</string>
+</resources>
